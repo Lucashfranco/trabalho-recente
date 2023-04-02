@@ -1,7 +1,7 @@
-<h1 align="center"> Formulário </h1>
+<h1 align="center"> Trabalhos </h1>
 
 <p align="center">
-Crie o seu próprio evento.
+Trabalhos recentes
 </p>
 
 <p align="center">
